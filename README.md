@@ -1,4 +1,4 @@
-# Mahoor-Application
+# Mahoor
 A Flutter web-based application with a collection of Iranian poets and their books.
 
 A UI preview of application is presented as below:
